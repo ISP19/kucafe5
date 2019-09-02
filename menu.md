@@ -10,7 +10,7 @@
 | Som-Tum                                |  40.0  |
 
 
-## Special Beverages for lunch
+## Special Beverages for lunch ☺️
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
