@@ -1,6 +1,7 @@
 # KU Cafe
 
 [Menu](menu.md)
+[Dinner Menu](dinner-menu.md)
 
 ## About Us
 
