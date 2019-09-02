@@ -10,11 +10,12 @@
 | Som-Tum                                |  40.0  |
 
 
-## Beverages
+## Special Beverages for lunch
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Singha Beer                            |  100.0  |
+| Smirnoff                               |  280.0  |
 
 ---
 
