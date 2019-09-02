@@ -8,3 +8,5 @@
 |--------|-------|----------|
 | Supakorn Tangpremsri | Team Lead, breakfast menu | WinterNight9 |
 | Wikrom Chanthakhun  | breakfast menu | Champ2k |
+| Boonyanuch Kaewrakrob | Barista | noeybynk |
+| Sukrita Kittipitayakorn | Servant | SukritaEarn |
