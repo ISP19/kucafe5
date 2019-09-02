@@ -16,6 +16,7 @@
 |:---------------------------------------|------:|
 | Singha Beer                            |  100.0  |
 | Smirnoff                               |  280.0  |
+| Johnnie Walker Black Label             |  1750.0 |
 
 ---
 
