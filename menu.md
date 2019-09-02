@@ -1,9 +1,14 @@
 ## Lunch Menu
 
-| Item                                   | Price |
+| Item                                   | Price (฿) |
 |:---------------------------------------|------:|
-| kaimook
-| nothing yet                            |  0.0  |
+| Hawaiian Pizza                         |  300.0  |
+| Noodles                                |  50.0  |
+| Krapao Kai                             |  40.0  |
+| Pat-Thai                               |  50.0  |
+| Khao Neuy Kai Tod                      |  50.0  |
+| Som-Tum                                |  40.0  |
+
 
 ## Beverages
 
