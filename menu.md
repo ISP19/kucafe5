@@ -1,6 +1,7 @@
+
 ## Breakfast Menu
 
-| Item                                   | Price |
+| Item                                   | Price (฿) |
 |:---------------------------------------|------:|
 | Pork Congee                            |  15.0 |
 | American Breakfast                     |  25.0 |
@@ -9,8 +10,7 @@
 | Noodle                                 |  25.0 |
 | Burger                                 |  40.0 |
 
-
-## Beverages
+## Breakfast Beverages ️
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
@@ -21,7 +21,25 @@
 | Milk                                   |  12.0 |
 | Milk-Shake                             |  25.0 |
 
+## Lunch Menu
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Hawaiian Pizza                         |  300.0  |
+| Noodles                                |  50.0  |
+| Krapao Kai                             |  40.0  |
+| Pat-Thai                               |  50.0  |
+| Khao Neuy Kai Tod                      |  50.0  |
+| Som-Tum                                |  40.0  |
+
+## Special Beverages for lunch ☺️
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Singha Beer                            |  100.0  |
+| Smirnoff                               |  280.0  |
+| Johnnie Walker Black Label             |  1750.0 |
 
 ---
+
+##
 
 We accept PromptPay, KUPay, Alipay, and cash. No credit cards.

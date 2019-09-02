@@ -10,3 +10,5 @@
 | Wikrom Chanthakhun  | breakfast menu | Champ2k |
 | Boonyanuch Kaewrakrob | Barista | noeybynk |
 | Sukrita Kittipitayakorn | Servant | SukritaEarn |
+| Tiranan Emson | lunch menu | TirananE |
+| Vichyawat Nakarugsa | lunch menu | EJEunjiyaz |
