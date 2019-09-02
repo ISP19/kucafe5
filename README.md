@@ -8,3 +8,4 @@
 |--------|-------|----------|
 | Fatalai Jon | Team Lead, breakfast menu | fatalaijon |
 | Jim Brucker | lunch menu | jbrucker |
+| Boonyanuch Kaewrakrob | Barista | noeybynk |
